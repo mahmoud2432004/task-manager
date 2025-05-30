@@ -54,7 +54,7 @@ public class TaskManagerGame {
         System.out.println("3. Complete a Task");
         System.out.println("4. Delete a Task");
         System.out.println("5. Exit");
-        System.out.print("Choose an ");
+        System.out.print("Choose an option: ");
     }
 
     private static int getUserChoice() {
